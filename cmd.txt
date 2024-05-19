@@ -1,0 +1,1 @@
+python train.py --batch 16 --epochs 50 --data data.yaml --weights yolov5s.pt --name yolov5_clothes
