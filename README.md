@@ -14,3 +14,4 @@ Here is some success photos
 ![WIN_20240519_15_39_38_Pro](https://github.com/ArshansGithub/Triton2024ML/assets/111618520/cd609f20-6a47-40d7-80a7-57191639ad50)
 ![WIN_20240519_15_39_40_Pro](https://github.com/ArshansGithub/Triton2024ML/assets/111618520/0bc14d70-af7c-4df6-a308-b39dc09556da)
 ![WIN_20240519_15_49_44_Pro](https://github.com/ArshansGithub/Triton2024ML/assets/111618520/fe067dd3-d87b-48fd-a2d5-a341b0531caf)
+![IMG_2413](https://github.com/ArshansGithub/Triton2024ML/assets/111618520/c0542bef-d1ad-4cb0-bf6f-4858203dfc38)
